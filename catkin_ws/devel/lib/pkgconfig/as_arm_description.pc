@@ -1,0 +1,8 @@
+prefix=/home/jiang/catkin_ws/devel
+
+Name: as_arm_description
+Description: Description of as_arm_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/jiang/catkin_ws/devel
+
+Name: keyboard_r5m_test
+Description: Description of keyboard_r5m_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: blueprintlab_reachsystem_ros_messages roscpp rospy std_msgs

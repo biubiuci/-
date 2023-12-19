@@ -1,0 +1,8 @@
+prefix=/home/jiang/catkin_ws/devel
+
+Name: r5m_ros_controller
+Description: Description of r5m_ros_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: blueprintlab_reachsystem_ros_messages roscpp rospy std_msgs

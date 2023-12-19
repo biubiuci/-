@@ -1,0 +1,2 @@
+AS_6Dof_Arm-master/as_arm_control:AS_6Dof_Arm-master/as_arm_description:AS_6Dof_Arm-master/as_arm_gazebo:AS_6Dof_Arm-master/as_arm_moveit_config:AS_6Dof_Arm-master/as_arm_real:AS_6Dof_Arm-master/as_arm_simulate:Examples/keyboard_r5m_test:Examples/r5m_ros_controller:blueprintlab_reachsystem_ros_messages:bpl_alpha_description:reach5mini_moveit_config:reach5mini_ros_passthrough:reach5mini_simulation:reach_system_one_support
+-DCATKIN_DEVEL_PREFIX=/home/jiang/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jiang/catkin_ws/install -G Unix Makefiles

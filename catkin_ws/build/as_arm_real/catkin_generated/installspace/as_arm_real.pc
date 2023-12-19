@@ -1,0 +1,8 @@
+prefix=/home/jiang/catkin_ws/install
+
+Name: as_arm_real
+Description: Description of as_arm_real
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

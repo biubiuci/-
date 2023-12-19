@@ -1,0 +1,8 @@
+prefix=/home/jiang/catkin_ws/install
+
+Name: reach5mini_simulation
+Description: Description of reach5mini_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

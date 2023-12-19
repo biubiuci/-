@@ -1,0 +1,8 @@
+prefix=/home/jiang/catkin_ws/devel
+
+Name: reach_system_one_support
+Description: Description of reach_system_one_support
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
